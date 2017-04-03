@@ -46,7 +46,7 @@
     "eslint-config-standard": "^7.1.0",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^2.1.1",
-    "stylelint": "^7.9.0",
+    "stylelint": "^7.10.1",
     "stylelint-config-slds": "^1.0.6"
   }
 }
